@@ -1,0 +1,1 @@
+export default {"SITE_KEY":"6LfFhcQaAAAAAGkuKAZp4XdNnq4E-_r398vupENG","BASE_URL":"https://multsistemas.com.br/smarti9/apis/site/"}
